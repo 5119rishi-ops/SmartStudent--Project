@@ -160,6 +160,5 @@ This project helped in understanding and implementing:
 
 Rishabh Mishra
 
-Industrial & Computer Engineering Student
 
 Internship Project – SmartStudent Student Management System
